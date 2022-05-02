@@ -14,6 +14,7 @@ For all intents and purposes, the release.rar is the only thing that is being re
 
 # Important files
 /venv/Scripts/EmployeeDBControl.py - Main python file where everything was built
+
 Final Product/release/dist/EmployeeDBControl/EmployeeDBControl.exe -  This or the shortcut to actually run the file.
 
 # How to use
